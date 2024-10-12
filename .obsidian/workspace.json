@@ -11,12 +11,8 @@
             "id": "ce81a8a9da38a9a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command Prompt/About GIT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command Prompt/About GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command Prompt/About GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Command Prompt/About GIT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,44 +147,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce81a8a9da38a9a7",
+  "active": "10935fb80f70ebc3",
   "lastOpenFiles": [
-    "Aptitude Preparation.md",
-    "DataBase/Joints.md",
-    "DataBase/ACID Properties.md",
+    "Welcome.md",
+    "Various Companies.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Tools to use in different domains.md",
+    "Temporary Notes.md",
     "Tell me about your self.md",
     "operation of this application.md",
     "L&T Coding test.md",
     "Java Makeover.md",
     "File Management System.md",
+    "Banking Web System.md",
+    "Aptitude Preparation.md",
+    "Machine Learning/You tube.md",
+    "Machine Learning",
     "DataBase/Normalization.md",
     "DataBase/My Sql.md",
-    "Command Prompt/About GIT.md",
-    "Capstone/YOLO algorithm implimentation.md",
+    "DataBase/Joints.md",
+    "DataBase/ACID Properties.md",
+    "DataBase",
+    "ComputerNetwork/Indroduction.md",
+    "ComputerNetwork",
     "Command Prompt/System Operations.md",
     "Command Prompt/Commands.md",
-    "Temporary Notes.md",
-    "Untitled.md",
-    "Banking Web System.md",
-    "Various Companies.md",
-    "Tools to use in different domains.md",
+    "Command Prompt/About GIT.md",
+    "Command Prompt",
     "catalog/To Search.md",
-    "Intership.md",
-    "Extensions.md",
-    "Agile.md",
     "catalog/Catalog-Compo.md",
     "catalog",
-    "C++ Notes/Arrays & Vectors.md",
-    "C++ Notes/Object from Classes.md",
-    "C++ Notes",
+    "Capstone/YOLO algorithm implimentation.md",
     "Capstone",
-    "Machine Learning",
-    "New Text Document.txt",
-    "Untitled.canvas",
-    "Command Prompt",
-    "Untitled 1.canvas",
-    "ComputerNetwork",
-    "DataBase/Untitled",
-    "DataBase"
+    "C++ Notes/Object from Classes.md",
+    "C++ Notes/Introduction.md",
+    "C++ Notes",
+    "gitfolder/Untitled.canvas",
+    "gitfolder/Machine Learning",
+    "gitfolder/DataBase",
+    "gitfolder/ComputerNetwork",
+    "Untitled 1.canvas"
   ]
 }
