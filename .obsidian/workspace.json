@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to  Install in PC.md",
+                "file": "Aptitude Preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to  Install in PC.md",
+                "file": "Aptitude Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to  Install in PC.md",
+                "file": "Aptitude Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to  Install in PC.md"
+                "file": "Aptitude Preparation.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "ce81a8a9da38a9a7",
   "lastOpenFiles": [
+    "Things to  Install in PC.md",
     "L&T Coding test.md",
     "Banking Web System.md",
     "Aptitude Preparation.md",
@@ -164,7 +165,6 @@
     "catalog/To Search.md",
     "Welcome.md",
     "Various Companies.md",
-    "Things to  Install in PC.md",
     "Untitled.canvas",
     "Tools to use in different domains.md",
     "Temporary Notes.md",
