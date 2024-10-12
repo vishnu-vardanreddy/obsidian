@@ -11,8 +11,12 @@
             "id": "ce81a8a9da38a9a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "L&T Coding test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "L&T Coding test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "L&T Coding test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "L&T Coding test.md"
+              }
             }
           },
           {
@@ -147,8 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10935fb80f70ebc3",
+  "active": "ce81a8a9da38a9a7",
   "lastOpenFiles": [
+    "Banking Web System.md",
+    "Aptitude Preparation.md",
+    "catalog/Catalog-Compo.md",
+    "catalog/To Search.md",
     "Welcome.md",
     "Various Companies.md",
     "Untitled.md",
@@ -160,8 +172,6 @@
     "L&T Coding test.md",
     "Java Makeover.md",
     "File Management System.md",
-    "Banking Web System.md",
-    "Aptitude Preparation.md",
     "Machine Learning/You tube.md",
     "Machine Learning",
     "DataBase/Normalization.md",
@@ -175,8 +185,6 @@
     "Command Prompt/Commands.md",
     "Command Prompt/About GIT.md",
     "Command Prompt",
-    "catalog/To Search.md",
-    "catalog/Catalog-Compo.md",
     "catalog",
     "Capstone/YOLO algorithm implimentation.md",
     "Capstone",
