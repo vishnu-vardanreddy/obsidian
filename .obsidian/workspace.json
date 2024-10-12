@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3370c11926c8c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aptitude Preparation.md",
+                "file": "Linux Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aptitude Preparation.md",
+                "file": "Linux Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aptitude Preparation.md"
+                "file": "Linux Systems.md"
               }
             }
           },
@@ -155,12 +168,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce81a8a9da38a9a7",
+  "active": "c3370c11926c8c0f",
   "lastOpenFiles": [
+    "Aptitude Preparation.md",
+    "Linux Systems.md",
     "Things to  Install in PC.md",
     "L&T Coding test.md",
     "Banking Web System.md",
-    "Aptitude Preparation.md",
     "catalog/Catalog-Compo.md",
     "catalog/To Search.md",
     "Welcome.md",
@@ -189,7 +203,6 @@
     "Capstone/YOLO algorithm implimentation.md",
     "Capstone",
     "C++ Notes/Object from Classes.md",
-    "C++ Notes/Introduction.md",
     "C++ Notes",
     "gitfolder/Untitled.canvas",
     "gitfolder/Machine Learning",
