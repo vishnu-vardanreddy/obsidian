@@ -1,5 +1,6 @@
 [Aptitude question examples](https://www.indiabix.com/aptitude/time-and-work/)
-*Logical Reasoning*
+_Logical Reasoning_
+
 - Blood Relation
 - Data Arrangement
 - Visual Reasoning
@@ -8,18 +9,18 @@
 - Venn Diagram
 - Calendar
 - Clock
-- Coding and Decoding 
+- Coding and Decoding
 - Direction
-*Quants*
+  _Quants_
 - Elementary Statistics
 - Arithmetic Geometry
-- Percentage 
+- Percentage
 - Profit Loss
 - Ration And Proportion
 - Time and Work
 - Simplification
 - Speed Time Distance
-*Verbal*
+  _Verbal_
 - Tense
 - Modals
 - Nouns
